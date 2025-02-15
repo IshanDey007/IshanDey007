@@ -15,7 +15,7 @@ I'm Ishan, a passionate developer with a keen interest in technology and innovat
 
 Here are some of the technologies I work with:
 
-- **Languages**: Python, JavaScript, C++
+- **Languages**: Python, JavaScript, C++,Java,Kotlin
 - **Frameworks**: React, Node.js, Django
 - **Tools**: Git, Docker, Kubernetes
 - **Databases**: MySQL, MongoDB
