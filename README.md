@@ -9,7 +9,7 @@ I'm Ishan, a passionate developer with a keen interest in technology and innovat
 - **Interests**: Coding, Open Source, Machine Learning, Gaming, Cars
 - **Currently Learning**: Advanced Machine Learning Techniques
 - **Looking to Collaborate On**: Open Source Projects and Innovative Tech Solutions
-- **Fun Fact**: I'm an avid gamer and love exploring new technologies. I am very much experienced in Python and C++ and can deliver all the work assigned to me on time.
+- **Fun Fact**: I'm an avid gamer and love exploring new technologies.
 
 ## Tech Stack
 
