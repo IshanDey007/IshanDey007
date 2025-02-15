@@ -6,7 +6,7 @@ I'm Ishan, a passionate developer with a keen interest in technology and innovat
 
 - **Pronouns**: He/Him
 - **Location**: Chennai, Tamil Nadu, India
-- **Interests**: Coding, Open Source, Machine Learning, Gaming, Cars
+- **Interests**: Coding, Open Source, Android Development, Gaming, Cars
 - **Currently Learning**: Advanced Machine Learning Techniques
 - **Looking to Collaborate On**: Open Source Projects and Innovative Tech Solutions
 - **Fun Fact**: I'm an avid gamer and love exploring new technologies.
