@@ -28,7 +28,7 @@ Here are some of the technologies I work with:
 
 Feel free to reach out to me:
 
-- **Email**: [ishan@example.com](mailto:idey7188@gmail.com)
+- **Email**: [idey7188@gmail.com](mailto:idey7188@gmail.com)
 - **LinkedIn**: [Ishan Dey](https://www.linkedin.com/in/ishan-dey-038a9b24a)
 
 Looking forward to collaborating and connecting with fellow developers!
